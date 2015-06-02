@@ -1,4 +1,4 @@
-# CompilersPhase1
+# CompiladoresFase1
 
 Coding Project - First Phase. Compilers course - 2015. Federal University of São Carlos - UFSCar Sorocaba.
 
