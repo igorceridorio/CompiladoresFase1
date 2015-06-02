@@ -1,14 +1,13 @@
-# CompiladoresFase1
+# CompilersPhase1
 
-Projeto de Implementação - Primeira Fase. Disciplina de Compiladores.
+Coding Project - First Phase. Compilers course - 2015. Federal University of São Carlos - UFSCar Sorocaba.
 
-### Desenvolvedores: 
+### Developers: 
 
-408611 - Igor Felipe Ferreira Ceridorio.
+- Igor Felipe Ferreira Ceridório
+- Daniel Ramos Miola
 
-438340 - Daniel Ramos Miola.
-
-### Gramática implementada:
+### Implemented Grammar:
 ```
 	- prog ::= P pid ';' body '.'
 	
